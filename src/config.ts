@@ -3,9 +3,9 @@
 
 export const SITE_TITLE = "Anthony Gerardo Giuliano";
 export const SITE_DESCRIPTION =
-  "Welcome to my blog! I write about modern web and software development.";
-export const TWITTER_HANDLE = "@Anthony091_";
-export const MY_NAME = "Anthony Gerardo Giuliano";
+  "Welcome to my blog! I write about modern web development.";
+export const TWITTER_HANDLE = "@yourtwitterhandle";
+export const MY_NAME = "Captain Awesome";
 
 // setup in astro.config.mjs
 const BASE_URL = new URL(import.meta.env.SITE);
