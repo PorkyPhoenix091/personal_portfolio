@@ -1,4 +1,5 @@
 ---
+draft: true
 external: false
 title: "Basic markdown style guide"
 description: "You can author content using the familiar markdown syntax you already know. All basic markdown syntax is supported."

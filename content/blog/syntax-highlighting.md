@@ -1,4 +1,5 @@
 ---
+draft: true
 external: false
 title: "Prism.js syntax highlighting for code blocks"
 description: "Code blocks are syntax highlighted using Prism.js"
